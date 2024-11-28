@@ -1,5 +1,8 @@
 # Impact_Overweight_Obesity
 
+
+NOTE: see file Thesis_v1.3.Rmd for code.
+
 This repo adresses the following topic:
 
 According to data from the *Centers for Disease Control and Prevention* [@CDC] obesity affected more than 2 in five adults in 2019. Additionally, nearly one in three adults were overweight. In 2019 dollars, the estimated annual medical cost of obesity in the United States was nearly 173 billion USD. The prevalence of overweight and obesity has risen dramatically over the past few decades, reaching epidemic proportions worldwide. According to a recent article by the World Health Organization, the worldwide prevalence of obesity more than doubled between 1990 and 2020.
